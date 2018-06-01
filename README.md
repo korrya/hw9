@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/korrya/result.txt/master/Пункт%201%20ЦГ
 Использовал регулярное выражение: [А-ЯѢ]+[а-яѣ]+(слав)[а-яѣ]+ Всего упоминаний о князьях нашел: 564
 https://raw.githubusercontent.com/korrya/result.txt/master/Пункт%202%20ЦГ.png
 Использовал регулярное выражение: (Нов)+.(город)[^W] Всего упоминаний Новгорода нашел: 58
+https://raw.githubusercontent.com/korrya/result.txt/master/Пункт%203%20ЦГ.png
